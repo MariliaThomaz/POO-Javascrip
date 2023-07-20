@@ -1,10 +1,10 @@
 //cria  uma  classe 
 let cachorro = {
-    patas: 4,
-    rasa: 'SRD',
-    latir: function() {
-        console.log( "au au ");
-    }
+  patas: 4,
+  rasa: 'SRD',
+  latir: function() {
+      console.log( "au au ");
+  }
 }
 
 //crio classe labrador com ojetos da outro classe
